@@ -1,0 +1,7 @@
+{
+  "buildPaths": {
+    "client": "public",
+    "server": "build"
+  },
+  "publicPath": "/assets/"
+}
